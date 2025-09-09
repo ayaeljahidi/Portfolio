@@ -16,7 +16,8 @@ You can explore my work, projects, and skills on my online portfolio:
 ---
 
 ### 🔗 Connect with Me
-- [GitHub](https://github.com/ayaeljahidi)  
+- [GitHub](https://github.com/ayaeljahidi)
+- [Credly](https://www.credly.com/users/ayaeljahidi)
 
 ---
 
